@@ -14,7 +14,6 @@ public class MaiorValorArray {
 			}
 		}
 		System.err.println("O maior valor é: " + maior);
-
 	}
 
 }
